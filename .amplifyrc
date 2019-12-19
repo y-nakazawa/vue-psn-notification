@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "vuepsnnotification-20191219164133-authRole",
+            "UnauthRoleArn": "arn:aws:iam::092960344365:role/vuepsnnotification-20191219164133-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::092960344365:role/vuepsnnotification-20191219164133-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "vuepsnnotification-20191219164133-deployment",
+            "UnauthRoleName": "vuepsnnotification-20191219164133-unauthRole",
+            "StackName": "vuepsnnotification-20191219164133",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:092960344365:stack/vuepsnnotification-20191219164133/facadf10-2232-11ea-8e09-0ac3b391d020"
+        }
+    }
+}
